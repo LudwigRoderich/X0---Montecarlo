@@ -22,5 +22,22 @@ Un juego de Tic Tac Toe clásico implementado en Python con una Inteligencia Art
 3. Ejecuta el juego:
    `python Tik_tak_toe.py`
 
+## Capturas de Pantalla
+
+### Pantalla Principal
+![Pantalla Principal](./Capturas%20de%20Pantalla/main.png)
+
+### Modo Dos Jugadores
+![Modo Dos Jugadores](./Capturas%20de%20Pantalla/2%20players.png)
+
+### Modo Aleatorio
+![Modo Aleatorio](./Capturas%20de%20Pantalla/random.png)
+
+### Victoria de la IA
+![Victoria de la IA](./Capturas%20de%20Pantalla/cpu%20win.png)
+
+### Visualización del Árbol MCTS
+![Visualización del Árbol MCTS](./Capturas%20de%20Pantalla/mcts%20visualize.png)
+
 ---
 *Desarrollado con fines educativos en algoritmos de búsqueda y GUI.*
